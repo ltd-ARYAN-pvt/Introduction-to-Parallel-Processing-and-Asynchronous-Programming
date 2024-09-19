@@ -40,8 +40,7 @@ Asynchronous Programming/
 
 1. **Clone the repository**
    ```
-   git clone https://github.com/yourusername/asynchronous-programming.git
-   cd asynchronous-programming
+   git clone https://github.com/ltd-ARYAN-pvt/Introduction-to-Parallel-Processing-and-Asynchronous-Programming.git
    ```
 
 2. **Set up the environment**  
